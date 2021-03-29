@@ -11,7 +11,6 @@ class Qr_Generator:
             "times new roman", 40), bg='#053246', fg="white").place(x=0, y=0, relwidth=1)
 
         # ********* Detail Window **********
-
         # ********* Variables **********
         self.var_emp_id = StringVar()
         self.var_emp_name = StringVar()
